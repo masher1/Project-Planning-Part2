@@ -2,7 +2,7 @@
 Part 2 of Project Planning
 
 
-![inline][https://github.com/SyracuseUniversity-CIS444/Project-Planning-Part2/blob/master/resources/hw-pt-2-app-design.png]
+![inline](https://github.com/SyracuseUniversity-CIS444/Project-Planning-Part2/blob/master/resources/hw-pt-2-app-design.png)
 
 ## Brainstorm
 
